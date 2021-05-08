@@ -7,3 +7,5 @@ To view the site, simply:
 npm install
 npm run serve
 ```
+View a working copy of the prototype here:
+https://fervent-pike-6afe82.netlify.app/
